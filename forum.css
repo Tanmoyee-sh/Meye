@@ -1,0 +1,90 @@
+body{
+	background-color: #E3FDFD;
+}
+.navigate{
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.jumbotron{
+	margin-top: 1rem;
+	color:#302E2E;
+	background-color: #F1CACA;
+}
+
+.forum_body{
+	padding: 0% 5%;
+	
+}
+
+p, .display-4{
+	text-align: center;
+}
+
+.paginationArrow{
+	color: grey;
+}
+
+.btn-pri{
+padding: 50px;
+padding-right: 60px;
+padding-left: 60px;
+margin: 30px;
+}
+
+
+.btn-lin{
+	padding: 48px;
+	padding-right: 38px;
+	padding-left: 38px;
+	margin: 30px;
+}
+
+.btn-sec{
+	padding: 50px;
+	padding-left: 62px;
+	padding-right: 62px;
+	margin: 30px;
+}
+
+.btn-suc{
+	padding: 50px;
+	padding-left: 82px;
+	padding-right: 82px;
+	margin: 30px;
+}
+
+.btn-dan{
+	padding: 47px;
+	padding-left: 52px;
+	padding-right: 52px;
+	margin: 30px;
+}
+
+.btn-war{
+	padding: 50px;
+	padding-left: 67px;
+	padding-right: 67px;
+	margin: 30px;
+}
+
+.btn-inf{
+	padding: 48px;
+	padding-left: 47px;
+	padding-right: 47px;
+	margin: 30px;
+}
+
+.btn-lig{
+	padding: 50px;
+	padding-left: 67px;
+	padding-right: 67px;
+	margin: 30px;
+}
+
+.btn-dar{
+	padding: 50px;
+	padding-left: 65px;
+	padding-right: 65px;
+	margin: 30px;
+}
