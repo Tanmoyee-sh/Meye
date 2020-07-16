@@ -1,0 +1,92 @@
+.container-fluid{
+	padding: 10px 200px;
+}
+
+.custom_padding{
+	padding: 5%;
+}
+
+.forum_body{
+	padding: 0% 5%
+}
+
+.topic_square{
+	background-color: red;
+	height: 400px;
+}
+
+p, .display-4{
+	text-align: center;
+}
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  color: #4B9188;
+  background-color:#F6E1F8;
+}
+
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: 400;
+}
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 2rem 0; 
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
+
+div.card {
+  color: #CB4E18;
+}
+
+.info{
+  color: #0BAEF3;
+  margin-left: 450px;
+  outline: none !important;
+    box-shadow: none !important;
+}
+
+.inf{
+  color: #0BAEF3;
+  margin-left: 4px;
+  outline: none !important;
+    box-shadow: none !important;
+}
