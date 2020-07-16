@@ -1,0 +1,38 @@
+.questions {
+  margin: 5px;
+  margin-right: 100px; 
+  margin-left: 100px;
+  padding: 5px;
+  padding-left: 55px;
+  padding-right:55px;
+  background-color: white;
+}
+
+.questions > h1, 
+.answers {
+  margin: 20px;
+  margin-left: 150px;
+  margin-right: 150px;
+  padding: 5px;
+  padding-left: 55px;
+  padding-right: 55px;
+}
+
+.answers {
+  background: white;
+}
+
+h2{font-size:20px;
+padding-left:25px; }
+
+.source{
+  margin: 5px;
+  margin-left: 80px;
+  padding: 5px;
+  padding-left: 250px;
+  padding-right:55px;
+  padding-top: 30px;
+  font-size: 80%;
+  background-color: white;
+}
+
