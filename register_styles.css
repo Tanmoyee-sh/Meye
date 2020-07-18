@@ -1,0 +1,90 @@
+
+.navbar, .navbar-expand-lg, .navbar-light {
+     background-color: #b83b5e !important;
+}
+
+
+body{
+
+background-image: url(images/clouds.jpg); 
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+
+.signupbox, .loginbox{
+	width: 320px;
+	height: 450px;
+	background-color: #d0b4dc;
+	opacity: 0.9;
+	box-sizing: border-box;
+	padding: 20px;
+	top:50%;
+	left:50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+}
+
+.graphic{
+
+	width: 400px;
+	height: 400px;
+	background-color: white;
+	position: absolute;
+	left: 20%;
+	top: 40%;
+}
+
+h1{
+padding-top: 40px;
+margin: 0px;
+font-family:serif;
+font-size: 30px;
+text-align: center;
+
+
+}
+div p{
+	font-weight: bold;
+	font-family: serif;
+	margin: 0;
+	padding: 0;
+}
+div input{
+	width: 100%;
+	margin-bottom: 20px;
+
+}
+div input[type=text], input[type=password]{
+
+	border:none;
+	border-bottom: 1px solid #000;
+	background: transparent;
+	outline: none;
+	height: 40px;
+	color: #000;
+}
+div input[type = "submit"]
+{
+	border:none;
+	outline: none;
+	height: 40px;
+	background:#842bd7;
+	color:#000;
+	font-size: 18px;
+	border-radius: 20px;
+}
+div input[type="submit"]:hover
+{
+	cursor: pointer;
+	background: black;
+	color:#fff;
+}
+
+.signuplink{
+	text-decoration: none;
+	font-size: 16px;
+
+}

@@ -1,0 +1,243 @@
+
+
+.forum_body{
+	padding: 0% 5%
+}
+
+p, .display-4{
+	text-align: center;
+}
+
+
+.btn-primary:hover{
+	background-color: #f1d1d1;
+	color: black;
+}
+
+
+
+#logout_button{
+
+	display: none;
+}
+body{
+	background-color: #faf2f2;
+}
+.navigate{
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.jumbotron{
+	margin-top: 1rem;
+	color:#88304e;
+	background-color: #f1d1d1;
+}
+
+
+.paginationArrow{
+	color: grey;
+}
+
+.btn-pri{
+height: 250px;
+width:280px;
+padding: 10px;
+margin: 20px;
+font-family: serif;
+background-color: #6e0061;
+border-style: none;
+}
+
+
+.btn-lin{
+	height: 250px;
+width:280px;
+padding: 10px;
+margin: 20px;
+background-color: #6e0061;
+font-family: serif;
+border-style: none;
+
+
+}
+
+.btn-sec{
+	height: 250px;
+width:280px;
+padding: 10px;
+margin: 20px;
+background-color: #6e0061;
+font-family: serif;
+border-style: none;
+opacity: 0.8;
+
+}
+
+.btn-suc{
+	height: 250px;
+width:280px;
+padding: 10px;
+margin: 20px;
+background-color: #6e0061;
+font-family: serif;
+border-style: none;
+opacity: 0.5;
+
+}
+
+.btn-dan{
+height: 250px;
+width:280px;
+padding: 10px;
+margin: 20px;
+background-color: #6e0061;
+font-family: serif;
+border-style: none;
+opacity: 0.5;
+
+}
+
+.btn-war{
+	height: 250px;
+width:280px;
+padding: 10px;
+margin: 20px;
+background-color: #6e0061;
+font-family: serif;
+border-style: none;
+opacity: 0.8;
+
+}
+
+.btn-inf{
+height: 250px;
+width:280px;
+padding: 10px;
+margin: 20px;
+background-color: #6e0061;
+font-family: serif;
+border-style: none;
+opacity: 0.5;
+
+
+}
+
+.btn-lig{
+	height: 250px;
+width:280px;
+padding: 10px;
+margin: 20px;
+background-color: #6e0061;
+font-family: serif;
+border-style: none;
+
+opacity: 0.5;
+
+}
+
+.btn-dar{
+	height: 250px;
+width:280px;
+padding: 10px;
+margin: 20px;
+background-color: #6e0061;
+font-family: serif;
+border-style: none;
+opacity: 0.8;
+
+}
+
+
+
+
+.navbar, .navbar-expand-lg, .navbar-light {
+     background-color: #b83b5e !important;
+}
+
+
+body{
+
+background-image: url(images/1.jpg); 
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+
+.signupbox, .loginbox{
+	width: 320px;
+	height: 450px;
+	background-color: #d0b4dc;
+	opacity: 0.9;
+	box-sizing: border-box;
+	padding: 20px;
+	top:50%;
+	left:50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	display: none;
+}
+
+.graphic{
+
+	width: 400px;
+	height: 400px;
+	background-color: white;
+	position: absolute;
+	left: 20%;
+	top: 40%;
+}
+
+h1{
+padding-top: 40px;
+margin: 0px;
+font-family:serif;
+font-size: 30px;
+text-align: center;
+
+
+}
+div p{
+	font-weight: bold;
+	font-family: serif;
+	margin: 0;
+	padding: 0;
+}
+div input{
+	width: 100%;
+	margin-bottom: 20px;
+
+}
+div input[type=text], input[type=password]{
+
+	border:none;
+	border-bottom: 1px solid #000;
+	background: transparent;
+	outline: none;
+	height: 40px;
+	color: #000;
+}
+#sub
+{
+	border:none;
+	outline: none;
+	height: 40px;
+	background:#842bd7;
+	color:#000;
+	font-size: 18px;
+	border-radius: 20px;
+}
+#sub:hover
+{
+	cursor: pointer;
+	background: black;
+	color:#fff;
+}
+
+.signuplink{
+	text-decoration: none;
+	font-size: 16px;
+
+}

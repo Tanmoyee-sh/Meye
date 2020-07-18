@@ -1,0 +1,88 @@
+html{
+	margin:0;
+	padding:0;
+ background-size: cover;
+overflow: hidden;
+  overflow: scroll;
+  background-color: #faf2f2;
+
+}
+
+.navbar, .navbar-expand-lg, .navbar-light {
+     background-color: #b83b5e !important;
+}
+
+
+.createtopicbox{
+	width: 800px;
+	height: 640px;
+	background-color: #d0b4dc;
+	opacity: 0.8;
+	box-sizing: border-box;
+	padding: 20px;
+	top:65%;
+	left:50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	  overflow: scroll;
+
+}
+
+#small{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+    overflow: scroll;
+
+}
+
+#big{
+
+overflow: scroll;
+width: 700px;
+height: 250px;
+}
+
+label{
+		color: black;
+}
+
+h1{
+padding-top: 40px;
+margin: 0px;
+font-family:serif;
+font-size: 30px;
+text-align: center;
+
+
+}
+div p{
+	font-weight: bold;
+	font-family: serif;
+	margin: 0;
+	padding: 0;
+}
+div input{
+	width: 100%;
+	margin-bottom: 20px;
+
+}
+
+div input[type = "submit"]
+{
+	border:none;
+	outline: none;
+	height: 40px;
+	background:#842bd7;
+	color:#000;
+	font-size: 18px;
+	border-radius: 20px;
+}
+div input[type="submit"]:hover
+{
+	cursor: pointer;
+	background: black;
+	color:#fff;
+}
+
