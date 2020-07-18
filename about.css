@@ -1,0 +1,136 @@
+body, html{
+	margin:0;
+	padding:0;
+}
+body{
+	background-color: white;
+}
+
+
+.jumbotron{
+	margin-top: 1rem;
+	color:#302E2E;
+	background-color: white;
+}
+
+p, .display-4{
+	text-align: center;
+}
+
+.paginationArrow{
+	color: grey;
+}
+
+.questions {
+  margin: 5px;
+  margin-right: 100px; 
+  margin-left: 150px;
+  padding: 5px;
+  padding-left: 500px;
+  padding-right:55px;
+  background-color: white;
+}
+ 
+.answers {
+  margin: 15px;
+  margin-left: 100px;
+  margin-right: 150px;
+  padding: 5px;
+  padding-left: 55px;
+  padding-right: 75px;
+}
+
+.answers {
+  background: white;
+}
+
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: 400;
+}
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  padding-left: 115px;
+  font-weight: 300;
+  letter-spacing: -.05rem;
+}
+
+.lead{
+  padding-left: 105px;
+}
+
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+.marketing h3 {
+  font-weight: 400;
+}
+
+.featurette-head {
+  padding-right: 115px;
+  font-weight: 300;
+  letter-spacing: -.05rem;
+}
+
+.lea{
+  padding-right: 105px;
+}
+
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
+
+.info{
+  color: #0BAEF3;
+  margin-left: 700px;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.inf{
+  color: #0BAEF3;
+  margin-left: 4px;
+  outline: none !important;
+    box-shadow: none !important;
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 25px;
+  padding-left: 380px;
+  border-radius: 50
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
